@@ -10,6 +10,21 @@ module PWI
       def initialize env = nil
         @@config ||= PWI::Consalud::Config.new(env)
       end
+
+      # TODO: -Implement check method
+      def check
+        
+      end
+
+      # TODO: -Implement pay method
+      def pay
+        
+      end
+
+      # TODO: -Implement reduce method
+      def reduce
+        
+      end
     end
   end
 end
