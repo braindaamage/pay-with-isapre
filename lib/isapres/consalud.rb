@@ -1,3 +1,3 @@
-require "consalud/config"
-require "consalud/payment"
-require "consalud/version"
+require "isapres/consalud/config"
+require "isapres/consalud/payment"
+require "isapres/consalud/version"
