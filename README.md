@@ -1,6 +1,6 @@
 # PWI
 
-Ruby implementation of pay with chielan isapre
+Ruby implementation of pay with chilean isapre
 
 ## Installation
 
