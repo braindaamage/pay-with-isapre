@@ -1,0 +1,13 @@
+consalud:
+  production:
+    ws_check: 'https://ws1.consalud.com'
+    payment: 'https://payment.consalud.com'
+    ws_reduce: https://ws3.consalud.com'
+  staging:
+    ws_check: 'https://ws1.consalud.com'
+    payment: 'https://payment.consalud.com'
+    ws_reduce: https://ws3.consalud.com'
+  development:
+    ws_check: 'https://ws1.consalud.com'
+    payment: 'https://payment.consalud.com'
+    ws_reduce: https://ws3.consalud.com'
